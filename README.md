@@ -1,1 +1,1 @@
-# git-test2 master add funcitonb funcitonA functionGood
+# git-test2 master add funcitonb funcitonA functionGoooooooooood
